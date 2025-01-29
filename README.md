@@ -16,4 +16,6 @@
 ![screenshot](https://raw.githubusercontent.com/Kava4/Pubg-Logitech-No-Recoil/master/Screenshots/3.png)
 
 **4: Import the script by using "Script->Import"**
+OR YOU CAN COPY THE SCRIPT AND PASTER HERE, SAVE IS DONE
 ![screenshot](https://raw.githubusercontent.com/Kava4/Pubg-Logitech-No-Recoil/master/Screenshots/4.png)
+
